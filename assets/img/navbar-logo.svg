@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 3600 600" width="3600" height="600">
+  <title>DDC POWER ENGINEERING SYSTEM</title>
+  <desc>Orange typographic logo reading “DDC POWER ENGINEERING SYSTEM” in italic uppercase letters, slightly smaller font.</desc>
+
+  <!-- Transparent background -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- Single line text -->
+  <text x="50%" y="65%"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="bold"
+        font-size="185"
+        font-style="italic"
+        letter-spacing="10"
+        fill="#ff7a00">
+    DDC POWER ENGINEERING SYSTEM
+  </text>
+</svg>
